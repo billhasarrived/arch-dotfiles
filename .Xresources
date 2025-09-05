@@ -1,7 +1,0 @@
-URxvt.font: xft:Monaco:style=Regular:size=9
-URxvt.boldFont: xft:Monaco:style=Bold:size=9
-URxvt.ItalicFont: xft:Monaco:style=Italic:size=9
-URxvt.boldItalicfont: xft:Monaco:style=Bold Italic:size=9
-URxvt.scrollstyle: next
-URxvt.scroolBar: True
-URxvt.scrollBar_right: True
