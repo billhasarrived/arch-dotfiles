@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Start Bluetooh
+GenericName=A descriptive name
+Comment=Some description about your script
+Exec=~/startbluetooth.sh
+Terminal=false
+Type=Application
+X-GNOME-Autostart-enabled=true
